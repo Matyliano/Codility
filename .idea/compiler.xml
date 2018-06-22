@@ -7,13 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Codility" />
-        <module name="SpringDemoo" />
-        <module name="SpringDemoo (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Programowanie1" target="1.7" />
       <module name="spring-demo" target="1.8" />
+      <module name="SpringDemoo" target="1.5" />
+      <module name="SpringDemoo (1)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

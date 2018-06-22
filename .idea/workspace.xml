@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="613bf24d-1d22-4fe0-8744-c914496c7b48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/AnnotationDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/TennisCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/AnnotationDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/AnnotationDemoApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/Coach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/HappyFortuneService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/HappyFortuneService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-annotations/target/classes/springdemo/TennisCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FrogJmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,12 +25,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../spring-annotations/pom.xml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PermMissingElem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -50,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../spring-annotations" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,53 +118,46 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="740" />
     <option name="y" value="215" />
-    <option name="width" value="1058" />
+    <option name="width" value="1060" />
     <option name="height" value="540" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -178,7 +168,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring1/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -344,11 +334,13 @@
       <workItem from="1527876460981" duration="9868000" />
       <workItem from="1527934153929" duration="31530000" />
       <workItem from="1528447063064" duration="2693000" />
+      <workItem from="1529650617909" duration="35000" />
+      <workItem from="1529650725652" duration="1470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78840000" />
+    <option name="totallyTimeSpent" value="80345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -361,31 +353,31 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.259887" />
-      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.18926553" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.304698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31409395" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.1299435" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,20 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/resources/beanScope-applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/BeanScopeDemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -748,6 +726,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
