@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../spring-annotations" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="613bf24d-1d22-4fe0-8744-c914496c7b48" name="Default" comment="">
+    <list default="true" id="613bf24d-1d22-4fe0-8744-c914496c7b48" name="Default" comment="+ new codility task">
       <change afterPath="$PROJECT_DIR$/src/main/java/FrogJmp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinaryGap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinaryGap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CyclicRotation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CyclicRotation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddOccurrencesInArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,13 +26,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PermMissingElem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermMissingElem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermMissingElem2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CyclicRotation2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CyclicRotation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -47,46 +81,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Matyliano &lt;joanna.boszko@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BinaryGap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CyclicRotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CyclicRotation2.java" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/CricketCoach.java" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/sport.properties" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/SetterDemoApp.java" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/resources/sport.properties" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/resources/beanScope-applicationContext.xml" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/BeanScopeDemoApp.java" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/TrackCoach.java" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/resources/beanLifeCycle-applicationContext.xml" />
-        <option value="$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/BeanLifeCycleDemoApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/OddOccurrencesInArray.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/BinaryGap2.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/FortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/Coach.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/AnnotationDemoApp.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/HappyFortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/RandomService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/DatabaseFortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/RESTFortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/ComponentScan.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/AnnotationBeanScopeDemoApp.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/sport.properties" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/JavaConfigDemoApp.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/RandomFortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/SadFortuneService.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/TennisCoach.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/SwimJavaConfigDemo.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/SportConfig.java" />
-        <option value="$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/SwimCoach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FrogJmp2.java" />
       </list>
     </option>
   </component>
@@ -95,11 +100,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="JsbtTreeLayoutManager">
-    <layout place="tools.popupGrunt">
-      <scroll-view-position x="0" y="0" />
-    </layout>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -127,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,9 +157,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,29 +168,13 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="springdemo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\joann\Desktop\JavaProjekty\spring-annotations\src\main\resources" />
-      <recent name="C:\Users\joann\Desktop\JavaProjekty" />
-      <recent name="C:\Users\joann\Desktop\JavaProjekty\SpringDemoo\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="springdemo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\joann\Desktop\JavaProjekty\SpringDemoo\src\main\resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -336,45 +320,63 @@
       <workItem from="1528447063064" duration="2693000" />
       <workItem from="1529650617909" duration="35000" />
       <workItem from="1529650725652" duration="1470000" />
+      <workItem from="1529761745576" duration="209000" />
+      <workItem from="1533924492248" duration="391000" />
     </task>
+    <task id="LOCAL-00001" summary="+ new codility task">
+      <created>1529657109799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529657109799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+ new codility task">
+      <created>1529659208663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529659208663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80345000" />
+    <option name="totallyTimeSpent" value="84064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32831737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" weight="0.32909605" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.259887" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.18926553" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31409395" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.32291666" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3295302" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.31879196" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.1299435" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.1299435" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -386,63 +388,53 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CyclicRotation2.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/CyclicRotation2.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="15" />
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+ new codility task" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ new codility task" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/SetterDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/CricketCoach.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CyclicRotation2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/BeanLifeCycleDemoApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/resources/beanLifeCycle-applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FrogJmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpringDemoo/src/main/java/springdemo/TrackCoach.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programowanie1_ziomek/src/main/java/Queue.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/FrogJmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Programowanie1_ziomek/src/main/java/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -500,18 +492,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../spring-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-169" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../spring-demo/src/main/java/com/sda/java/gda/springdemo/SpringDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../spring-demo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../../spring-demo/src/main/java/com/sda/java/gda/springdemo/SpringDemoApplication.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/OddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -552,9 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,14 +546,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/HappyFortuneService.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/HappyFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -582,9 +555,6 @@
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/FortuneService.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -600,9 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/DatabaseFortuneService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/AnnotationBeanScopeDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -617,18 +584,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/AnnotationDemoApp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/RESTFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/RESTFortuneService.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/DatabaseFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -637,16 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Programowanie/luv2code/solution-code-spring-annotation-bean-lifecycle-methods/solution-code-spring-annotation-bean-lifecycle-methods/com/luv2code/springdemo/SadFortuneService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../spring-annotations/src/main/java/springdemo/SadFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,9 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,9 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,6 +675,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8843">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FrogJmp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/FrogJmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CyclicRotation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -736,101 +719,5 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PermMissingElem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>javax.servlet.jsp.jstl-1.2.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Codility</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
